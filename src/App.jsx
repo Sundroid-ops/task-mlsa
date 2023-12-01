@@ -27,12 +27,12 @@ const siteProps = {
   name: "Lipun Dani",
   title: "Web Developer",
   email: "lipundani@gmail.com",
-  gitHub: "https://github.com/Sundroid-ops",
+  gitHub: "Sundroid-ops",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/lipun-dani-5b8625236/",
+  linkedIn: "lipun-dani-5b8625236/",
   medium: "",
-  twitter: "https://twitter.com/lipundani05",
-  youTube: "https://www.youtube.com/channel/UCmygBeD49Zkk7czVJxfyJyg",
+  twitter: "lipundani05",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
