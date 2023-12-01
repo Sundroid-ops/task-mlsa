@@ -31,29 +31,17 @@ const imageAltText = "Desk filled up with laptop, phone, stationary and coffee";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Blog-O",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Blogging web-app consisting of login/signup feature where user's can read posts, create and post their stuff with updating their posts and deleting them, all included in the web-app",
+    url: "https://github.com/Sundroid-ops/Blog-O",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Savings-seeker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Savings-seeker is a telegram bot who tracks user registered products on amazon and flipkart products. Use it to track your favourite products and get alerts for their price drop.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  }
 ];
 
 const Portfolio = () => {
